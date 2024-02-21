@@ -29,3 +29,7 @@ The project make use of the CRISP-DM FRAMEWORK
 5. Evaluation
 
 - The evaluation metrics to used are the Confusion Matrix, Classification report
+
+## Credit
+
+Azubi Africa
